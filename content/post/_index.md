@@ -1,14 +1,9 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/img/` folder).
+title: test
+view: "2"
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
+
 ---
+    print('Hello')
