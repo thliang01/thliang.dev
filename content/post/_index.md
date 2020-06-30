@@ -6,4 +6,3 @@ header:
   image: ''
 
 ---
-    print('Hello')
